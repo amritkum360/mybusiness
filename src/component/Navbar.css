@@ -1,0 +1,9 @@
+#sitelogo{
+    color: red;
+}
+
+
+.logoadd{
+    display: flex;
+    border: 1px solid black;
+}
